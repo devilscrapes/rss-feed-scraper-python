@@ -1,0 +1,11 @@
+{
+  "feedUrls": [
+    "https://news.ycombinator.com/rss",
+    "https://github.com/apify/apify-client-js/releases.atom"
+  ],
+  "maxItemsPerFeed": 5,
+  "includeContent": true,
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}
